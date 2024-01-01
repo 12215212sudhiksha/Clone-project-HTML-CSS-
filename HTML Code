@@ -1,0 +1,93 @@
+--HTML code--
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> footer design using HTML and CSS</title>
+<link rel="stylesheet" type="text/css" href="style.css"> </head>
+    
+    
+    
+<body>
+    <footer class="footer">
+        <div class="start-learning">
+            <div class="footer-start">
+                <div class="texts">
+                    <h2 class="section-title">Try Hologram Today.</h2>
+                    <h3 class="section-sub-heading">
+                        <pre><span><strong><p>&#10023;free sim &#10023;1MB/mo free &#10023;Connect and scale in days</p></strong></span></pre>
+                        
+                    </h3>
+                </div>
+                <pre><a href="#" class="button">
+                    <span class="label">Sign up free &#10132;</a> <a href="#" class="button"> </span>  
+ <span class="label">Contact Sales &#10132; </span>
+                </a></pre>
+                
+            </div>
+        </div>
+<div class="inner">
+            <div class="column is-logo">
+                <a href="#" class="main-logo">
+                    <div class="logo">
+                        
+                    </div>
+                    <div class="logo-info">
+                        <div class="text">Hologram</div>
+                        
+                    </div>
+                </a>
+            </div>
+        <div class="column is-nav">
+                <div class="column-title">Get Connected</div>
+                <ul>
+                    <li><a href="#">Connectively</a></li>
+                    <li><a href="#">Dashboard</a></li>
+                    <li><a href="#">IoT SIM Card</a></li>
+                    <li><a href="#">Hologram Hyper</a></li>
+                    <li><a href="#">Hologram News</a></li>
+                </ul>
+            </div>
+            <div class="column is-nav">
+                <div class="column-title">Resources</div>
+                <ul>
+                    <li><a href="#">Using Hologram</a></li>
+                    <li><a href="#">Docs</a></li>
+                    <li><a href="#">Support</a></li>
+                    <li><a href="#">Supported Hardware</a></li>
+                </ul>
+            </div>
+            <div class="column is-nav">
+                <div class="column-title"><b>Pricing</div></b>
+                <ul>
+                    <li><a href="#">Pricing overview</a></li>
+                    <li><a href="#">Flexible Data</a></li>
+                    <li><a href="#">High volume data</a></li>
+<li><a href="#"> Enterprise</a></li>
+<li><a href="#">Coverage Map</a></li>
+
+                </ul>
+</div>
+<div class="column is-nav">
+                <div class="column-title">Developers</div>
+                <ul>
+                    <li><a href="#">Forum</a></li>
+<li><a href="#">Projects</a></li>
+<li><a href="#">Open Source</a><li>
+                </ul>
+            </div>
+            <div class="column is-nav">
+                <div class="column-title">Social</div>
+                <ul>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">LinkedIn</a></li>
+                    <li><a href="#">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+</body>
+</html>
