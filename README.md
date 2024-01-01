@@ -1,2 +1,1 @@
-# Clone-project-HTML-CSS-
-Built a website page using HTML and CSS 
+This HTML and CSS code creates a sleek footer design for a website. The footer includes a "Start Learning" section with a call-to-action, a logo, and navigation links for connectivity, resources, pricing, developers, and social media. It promotes a service named "Hologram" with a focus on IoT connectivity. The design is responsive and visually appealing. #HTML #CSS #WebDesign
